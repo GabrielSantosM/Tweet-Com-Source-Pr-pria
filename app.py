@@ -2,10 +2,10 @@
 import random, os, sys
 import tweepy
 
-consumer_secret = "catTtKEz5pFrsPH8FeYDV6bmxf11hUlgrGOhk2W7ygT0sSTwPN"
-consumer_key = "XXLdwcdEdcQWYtLs7g2QGT60W"           #Credencias do twitter dev
-access_token = "1124355942693445633-6PxXq9IupO7Fmgc0oxW0gUiO1gfp15"
-access_token_secret = "BIc9VCwzVV4T2YiZC7KE3Zh6TJZAm2r2gn3UbwYCski3v"
+consumer_secret = ""
+consumer_key = ""           #Credencias do twitter dev
+access_token = ""
+access_token_secret = ""
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
