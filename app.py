@@ -1,4 +1,6 @@
-
+# -*- coding: utf-8 -*-
+import random, os, sys
+import tweepy
 
 consumer_secret = ""
 consumer_key = ""           #Credencias do twitter dev
