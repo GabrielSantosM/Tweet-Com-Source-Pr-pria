@@ -12,7 +12,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)          #Logando 
 
 
-texto = "siga meu adm"  #Inserir o texto desejado aqui
+texto = ""  #Inserir o texto desejado aqui entre ""
 
 
    
